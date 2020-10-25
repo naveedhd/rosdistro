@@ -9920,6 +9920,16 @@ repositories:
       url: https://gitlab.com/InstitutMaupertuis/ros_robodk_post_processors.git
       version: melodic
     status: maintained
+  ros_topics_watcher:
+    doc:
+      type: git
+      url: https://github.com/naveedhd/ros_topics_watcher.git
+      version: melodic-devel
+    source:
+      type: git
+      url: https://github.com/naveedhd/ros_topics_watcher.git
+      version: melodic-devel
+    status: maintained
   ros_tutorials:
     doc:
       type: git
